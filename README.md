@@ -7,7 +7,7 @@ Gray is also a decent color!
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![GUI](https://img.shields.io/badge/GUI-Tkinter-orange)](https://docs.python.org/3/library/tkinter.html)
 
-![FastQC Analyzer](images/quality.png)
+![FastQC Analyzer](images/promo1.png)
 
 
 ## Быстрый старт
