@@ -17,7 +17,7 @@ Gray is also a decent color!
 ## 1. Скачай и запусти
 ```bash
 # Клонируй репозиторий
-git clone https://github.com/yourusername/FastQCAnalyzer.git
+git clone https://github.com/VictoriaKalion/FastQCAnalyzer
 
 ## Перейди в папку
 cd FastQCAnalyzer
