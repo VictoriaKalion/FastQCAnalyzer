@@ -16,13 +16,13 @@ Gray is also a decent color!
 ```bash
 # Клонируй репозиторий
 git clone https://github.com/yourusername/FastQCAnalyzer.git
-```
+
 ## Перейди в папку
 cd FastQCAnalyzer
 
 ## Запусти
 python fastq_analyzer.py
-
+```
 ### 2. Используй
 1. Нажми "Выбрать файл"
 
