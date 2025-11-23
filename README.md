@@ -46,6 +46,7 @@ python fastq_analyzer.py
 **Generators** - оптимизация памяти O(1)
 
 ## Структура проекта
+```
 FastQC_Analyzer/
 ├── fastq.py
 ├── README.md
@@ -56,5 +57,7 @@ FastQC_Analyzer/
 ├── length.png
 ├── promo1.png
 └── quality.png
+```
+
 ## Лицензия
 ![LICENSE](LICENSE)
