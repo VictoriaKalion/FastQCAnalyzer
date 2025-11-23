@@ -10,7 +10,7 @@ Gray is also a decent color!
 ![FastQC Analyzer](images/promo1.png)
 
 ![FastQC Analyzer](images/content.png)
-Пример графика!
+
 
 ## Быстрый старт
 
@@ -46,7 +46,7 @@ python fastq_analyzer.py
 **Generators** - оптимизация памяти O(1)
 
 ## Структура проекта
-
+FastQCAnalyzer/
 ├── fastq.py
 ├── README.md
 ├── LICENSE
@@ -56,3 +56,6 @@ python fastq_analyzer.py
     ├── length.png
     ├── promo1.png
     └── quality.png
+
+## Лицензия
+![LICENSE](LICENSE)
