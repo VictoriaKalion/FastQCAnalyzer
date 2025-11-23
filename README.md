@@ -1,6 +1,5 @@
 # FastQCAnalyzer
 Gray is also a decent color!
-# 🧬 FastQC Analyzer
 
 **Профессиональный анализатор FASTQ файлов с элегантным GUI**
 
@@ -8,9 +7,8 @@ Gray is also a decent color!
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![GUI](https://img.shields.io/badge/GUI-Tkinter-orange)](https://docs.python.org/3/library/tkinter.html)
 
-<div align="center">
+![FastQC Analyzer](images/quality.png)
 
-![FastQC Analyzer](https://via.placeholder.com/800x400/FFFFFF/212121?text=FastQC+Analyzer+Interface)
 
 ## Быстрый старт
 
