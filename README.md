@@ -12,15 +12,15 @@ Gray is also a decent color!
 
 ## Быстрый старт
 
-### 1. Скачай и запусти
+## 1. Скачай и запусти
 ```bash
 # Клонируй репозиторий
 git clone https://github.com/yourusername/FastQCAnalyzer.git
 ```
-# Перейди в папку
+## Перейди в папку
 cd FastQCAnalyzer
 
-# Запусти
+## Запусти
 python fastq_analyzer.py
 
 ### 2. Используй
@@ -44,7 +44,6 @@ python fastq_analyzer.py
 **Generators** - оптимизация памяти O(1)
 
 ## Структура проекта
-
 ├── fastq.py          #Главная программа
 ├── README.md         #Документация  
 ├── LICENSE           #MIT лицензия
